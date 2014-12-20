@@ -1,5 +1,7 @@
 <?php
 
+namespace tekstari;
+
 class tekstari {
 
   const LINK = 'http://www.yle.fi/tekstitv/ttv/';

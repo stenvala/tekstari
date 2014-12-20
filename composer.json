@@ -1,0 +1,9 @@
+{
+  "name": "stenvala/tekstari",
+  "autoload": {
+    "psr-4": {
+      "tekstari\\": ""
+    }
+  },
+  "minimum-stability": "dev"
+}
