@@ -25,7 +25,7 @@ class tekstari {
       $this->contents .= fread($handle, 8192);
     }
     preg_match('@(' . self::MARK_BEGIN . ')(.*?)(' . self::MARK_END . ')@s', $this->contents, $data);
-    if (strlen($data[2]) < 10) {
+    if (count($data) < 3 || strlen($data[2]) < 10) {
       throw new \Exception("Haettua sivua '$page' ei ole", 410);
     }
     $this->parsed = $data[2];
