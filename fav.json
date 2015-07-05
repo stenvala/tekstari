@@ -1,8 +1,67 @@
 [
   {
+    "page": 102,
+    "title": "Uutiset - Kotimaa"
+  },
+  {
+    "page": 130,
+    "title": "Uutiset - Ulkomaa"
+  },
+  {
+    "page": 160,
+    "title": "Talous"
+  },
+  {
+    "page": 173,
+    "title": "Korot ja valuuttakurssit"
+  },
+  {
+    "page": 199,
+    "title": "Päähakemisto"
+  },
+  {
+    "page": 200,
+    "title": "Urheilu - pääsivu"
+  },
+  {
     "page": 201,
     "title": "Urheilu - pääotsikot"
+  },
+  {
+    "page": 220,
+    "title": "Palloilu"
+  },
+  {
+    "page": 221,
+    "title": "Liiga"
+  },
+  {
+    "page": 235,
+    "title": "NHL - yön ottelut"
+  },
+  {
+    "page": 255, 
+    "title": "NHL - taulukot"
+  },
+  {
+    "page": 256,
+    "title": "NHL - tilastot"
+  },
+  {
+    "page": 300,
+    "title": "TV"
+  },
+  {
+    "page": 320,
+    "title": "TV:ssä nyt"
+  },
+  {
+    "page": 355,
+    "title": "YLEn urheilulähetykset"
+  },
+  {
+    "page": 610,
+    "title": "Urheilutapahtumien erikoissivu"
   }
-
 ]
   
